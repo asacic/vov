@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Markazi+Text|Roboto:400,400i,700,700i');
+
+body    {
+    background-color: rgb(25, 32, 35);
+    background-image: linear-gradient(135deg, rgb(46, 45, 69), rgb(28, 33, 39));
+    color: rgb(245, 245, 245);
+    font-family: 'Roboto', sans-serif;
+}
+div {
+    width:800px; 
+    height: 200px; line-height: 200px;
+    position: absolute;
+    top: 50%; margin-top:-100px;
+    left: 50%; margin-left:-400px;
+    font-weight: bold;
+    font-size: 100px;
+    text-transform: uppercase;
+    text-align:center;
+}​
